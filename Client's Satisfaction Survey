@@ -1,0 +1,5 @@
+$ git init
+$ git add .
+$ git commit -m 'First commit'
+$ git remote add origin YOUR_GITHUB_REPOSITORY_https://github.com/ryanvill506-hash/Client-s-Satisfaction-Survey/new/main
+git push -u origin main
